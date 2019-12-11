@@ -23,6 +23,10 @@ export default function Menu() {
 
             <h2>Winning the Game</h2>
             <p>If one of your <b className={styles.orange_text}>Workers</b> <b className={styles.purple_text}>moves up</b> on top of <b className={styles.orange_text}>Level 3</b> durning your turn, you insantly win!</p>
+
+
+            <div>Woman Icons made by <a href="https://www.flaticon.com/authors/freepik" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
+            <div>Man Icons made by <a href="https://www.flaticon.com/authors/nhor-phai" title="Nhor Phai">Nhor Phai</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
         </div>
     );
 }

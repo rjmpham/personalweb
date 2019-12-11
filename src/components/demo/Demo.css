@@ -90,7 +90,7 @@ ol, ul {
     padding: 0;
     text-align: center;
     width: 80px;
-    background-image: url("/Imgs/L1.png");
+    background-image: url("./Imgs/L1.png");
   
   }
 
@@ -106,7 +106,7 @@ ol, ul {
     padding: 0;
     text-align: center;
     width: 80px;
-    background-image: url("/Imgs/L2.png");
+    background-image: url("./Imgs/L2.png");
   
 }
 
@@ -121,7 +121,7 @@ ol, ul {
     padding: 0;
     text-align: center;
     width: 80px;
-    background-image: url("/Imgs/L3.png");
+    background-image: url("./Imgs/L3.png");
   
   }
 
@@ -136,9 +136,16 @@ ol, ul {
     padding: 0;
     text-align: center;
     width: 80px;
-    background-image: url("/Imgs/D.png");
+    background-image: url("./Imgs/D.png");
   
-  }
+}
+
+.player1{
+    background-image: url("./Imgs/woman.png");
+}
+.player2{
+    background-image: url("./Imgs/man.png");
+}
 
   .highlightedsquare{
     flex:1;
