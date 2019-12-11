@@ -26,8 +26,13 @@ function Projects() {
                         <u1 className='nav-links'>
                             <Link style={navStyle} to='/santi'>
                                 <li><h1>Demo</h1></li>
-                            </Link>
+                            </Link>     
+
+                            <h1><a href="https://github.com/rjmpham/HackathonReactSanti">Github Link</a></h1>
                         </u1>
+
+
+
                     </p>
 
                 </div>
