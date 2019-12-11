@@ -15,6 +15,15 @@
     color: whitesmoke;
 }
 
+.demo-area{
+    background: linear-gradient(110deg, #ff5555 60%, #ff8888 60%);
+    min-height: 90vh;
+    display: flex;
+    flex-direction: center;
+    align-items: center;
+    justify-content: center;
+}
+
 .projects{
     background: linear-gradient(80deg, #ff5555 60%, #ff8888 60%);
     height: 1100px;

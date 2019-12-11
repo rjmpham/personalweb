@@ -1,16 +1,17 @@
+// eslint-disable-next-line no-unused-vars
 import React from 'react';
 
 function Resume() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <p>
-          WORK
-        </p>
+    return (
+        <div className="App">
+            <header className="App-header">
+                <p>
+                WORK
+                </p>
 
-      </header>
-    </div>
-  );
+            </header>
+        </div>
+    );
 }
 
 export default Resume;

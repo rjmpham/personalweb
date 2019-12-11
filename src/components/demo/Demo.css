@@ -1,18 +1,15 @@
-body {
-  font: 14px "Century Gothic", Futura, sans-serif;
-  margin: 20px;
-  background: linear-gradient(110deg, #d3b96a 60%, #e6cf6d 60%);
-}
+
 
 ol, ul {
   padding-left: 30px;
 }
 
-.container {
-  text-align: center;
+.gameArea {
+    font: 14px "Century Gothic", Futura, sans-serif;
+    text-align: center;
 }
 
-.inner_content {
+.InnerGame {
   display: inline-block;
 }
 
