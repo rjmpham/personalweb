@@ -1,6 +1,8 @@
 // eslint-disable-next-line no-unused-vars
 import React from 'react';
+// eslint-disable-next-line no-unused-vars
 import GithubLogo from './images/Github';
+// eslint-disable-next-line no-unused-vars
 import LinkLogo from './images/Link';
 
 function Contact() {

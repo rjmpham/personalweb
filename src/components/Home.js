@@ -6,12 +6,14 @@ function Home() {
         <div className="App">
             <header className="App-header">
                 <div className='home-layout'>
-
-                    <p>
-                        
-                    </p>
+                    
+                    <h2>
+                        <p>
+                            Hi! my name is
+                        </p>
+                    </h2>
                     <p className='home-text'>
-                    I'm Richard Pham
+                        <h3>Richard Pham</h3>
                     </p>
                     <p>I am a web developer, a programmer, a problem solver.</p>
                 </div>
