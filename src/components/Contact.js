@@ -1,5 +1,7 @@
 // eslint-disable-next-line no-unused-vars
 import React from 'react';
+import GithubLogo from './images/Github';
+import LinkLogo from './images/Link';
 
 function Contact() {
     return (
@@ -18,12 +20,9 @@ function Contact() {
                     </p>
 
                     <p>
-                        <h1>Linkden</h1>
+                        <a href="https://github.com/rjmpham/"><GithubLogo/></a>  <a href="https://www.linkedin.com/in/rjmpham/"><LinkLogo/></a>
                     </p>
 
-                    <p>
-                        <h1>Github</h1>
-                    </p>
                 </div>
 
 
