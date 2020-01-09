@@ -9,11 +9,11 @@ function Home() {
                     
                     <h2>
                         <p>
-                            Hi! my name is
+                           
                         </p>
                     </h2>
                     <p className='home-text'>
-                        <h3>Richard Pham</h3>
+                        <h3>Hi, I'm Richard Pham</h3>
                     </p>
                     <p>I am a web developer, a programmer, a problem solver.</p>
                 </div>
