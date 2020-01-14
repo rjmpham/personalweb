@@ -5,10 +5,9 @@ function Resume() {
     return (
         <div className="App">
             <header className="App-header">
-                <p>
-                WORK
-                </p>
-
+                <div>
+                    {/*<Document file="./images/resume.pdf"/>*/}
+                </div>
             </header>
         </div>
     );
