@@ -22,9 +22,10 @@ function Navbar() {
                 <Link style={navStyle} to='/projects'>
                     <li>Projects</li>
                 </Link>
-                <Link style={navStyle} to='/resume'>
-                    <li>Resume</li>
-                </Link>
+
+                
+                <li><a style = {{color: 'white' }} target="_blank" href="https://richard-personal-site.s3-us-west-1.amazonaws.com/resume.pdf">Resume</a></li>
+
                 <Link style={navStyle} to='/contact'>
                     <li>Contact</li>
                 </Link>
