@@ -46,7 +46,7 @@ function Projects() {
                         A server can be started, and peers can mine blocks, make transactions, verify them.
                         The repository also contains multiple altered and malicious version of the code that demonstrate the blockchain's ability to resist attacks.
 
-                        <h1><a href="https://github.com/rjmpham/whatspass">Github Link</a></h1>
+                        <h1><a href="https://github.com/rjmpham/DistributeBlocks">Github Link</a></h1>
 
                     </p>
 
