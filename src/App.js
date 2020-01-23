@@ -9,7 +9,7 @@ import Contact from './components/Contact';
 import Santi from './components/demo/Demo';
 //import Santi from './components/demo/Santi'
 
-import {BrowserRouter as Router,
+import {HashRouter as Router,
     Switch,
     Route
 } from 'react-router-dom';
