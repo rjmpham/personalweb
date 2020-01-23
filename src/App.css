@@ -57,26 +57,21 @@
 
 .container{
     width: 80%;
+    align-items: center;
     justify-content: center;
     display: grid;
     grid-template-columns: min-content 60%;
     grid-template-rows: max-content;
 }
 .profileImage{
-    flex: 35;
     height: 200px;
-    margin-top: 50px;
     margin-right: 30px;
     padding: 2px;
     border: 2px solid #8eb598;
-    float: center;
 }
 
 .textProfile{
-    flex: 65;
-    width: 90%;
     text-align: justify;
-    float:center;
 }
 .projectImage{
     height: 300px;
