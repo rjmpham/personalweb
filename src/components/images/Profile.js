@@ -1,6 +1,6 @@
 // eslint-disable-next-line no-unused-vars
 import React from 'react';
-import img from './profile.jpeg';
+import img from './profile.jpg';
 
 function Profile() {
     return (
