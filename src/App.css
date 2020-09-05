@@ -3,7 +3,7 @@
 }
 
 .App-header {
-    background: linear-gradient(110deg, #ff5555 60%, #ff8888 60%);
+    background: linear-gradient(110deg, #5574ff 60%, #3a6ebb 60%);
     min-height: 90vh;
     display: flex;
     flex-direction: center;
@@ -16,7 +16,7 @@
 }
 
 .demo-area{
-    background: linear-gradient(110deg, #ff5555 60%, #ff8888 60%);
+    background: linear-gradient(110deg, #5574ff 60%, #3a6ebb 60%);
     min-height: 90vh;
     display: flex;
     flex-direction: center;
@@ -25,7 +25,7 @@
 }
 
 .projects{
-    background: linear-gradient(80deg, #ff5555 60%, #ff8888 60%);
+    background: linear-gradient(80deg, #5574ff 60%, #3a6ebb 60%);
     height: 1200px;
     display: flex;
     flex-direction: column;
