@@ -5,7 +5,7 @@ import Profile from './images/Profile';
 function About() {
     return (
         <div className="App">
-            <header className="App-header">
+            <header className="other-header">
                 <div className='container'>
                     <div className='profileImage'>
                         <Profile />
